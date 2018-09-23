@@ -35,17 +35,17 @@ else{
     finalResults += 3;
   }
 
-//  incomplete_works.innerHTML = "All questios attempted";
-//   $("#exam").toggle();
-//
-//   $("#results-form").toggle();
-//   yourResult.innerHTML = finalResults;
-//   $("#incomplete-work").toggle();
-//   finder.preventDefault();
-//   // alert(finalResults);
-// }
-// });
-// });
+ incomplete_works.innerHTML = "All questios attempted";
+  $("#exam").toggle();
+
+  $("#results-form").toggle();
+  yourResult.innerHTML = finalResults;
+  $("#incomplete-work").toggle();
+  finder.preventDefault();
+  // alert(finalResults);
+}
+});
+});
 
 
 // END BUSINESS LOGIC
