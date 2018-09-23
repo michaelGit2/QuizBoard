@@ -17,24 +17,24 @@ $("#incomplete-work").toggle();
 // alert("Some questions Not Answerd!!!/n Atempt all questions!!! Befor you can submit");
 finder.preventDefault();
 
-// }
-// else{
-//   if(yourPicks[0] == 3){
-//     finalResults += 3;
-//   }
-//   if(yourPicks[1] == 3){
-//     finalResults += 3;
-//   }
-//   if(yourPicks[2] == 3){
-//     finalResults += 3;
-//   }
-//   if(yourPicks[3] == 3){
-//     finalResults += 3;
-//   }
-//   if(yourPicks[4] == 3){
-//     finalResults += 3;
-//   }
-//
+}
+else{
+  if(yourPicks[0] == 3){
+    finalResults += 3;
+  }
+  if(yourPicks[1] == 3){
+    finalResults += 3;
+  }
+  if(yourPicks[2] == 3){
+    finalResults += 3;
+  }
+  if(yourPicks[3] == 3){
+    finalResults += 3;
+  }
+  if(yourPicks[4] == 3){
+    finalResults += 3;
+  }
+
 //  incomplete_works.innerHTML = "All questios attempted";
 //   $("#exam").toggle();
 //
@@ -46,6 +46,6 @@ finder.preventDefault();
 // }
 // });
 // });
-//
-//
-// // END BUSINESS LOGIC
+
+
+// END BUSINESS LOGIC
