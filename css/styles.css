@@ -1,0 +1,42 @@
+#results-form {
+  display: none;
+}
+/* #incomplete_work{
+  display: none;
+} */
+
+#incomplete-work{
+  display: none;
+}
+
+*{
+  background-color: aqua;
+}
+#school{
+  border: 3px blue;
+  border-style: dashed;
+  border-radius: 5px;
+
+}
+#card{
+  border: 2px solid  fuchsia;
+    background-color: aqua;
+}
+#school h1, h2{
+  font-size: 30px;
+  color:purple;
+}
+
+h1 {
+  border-radius: 5px;
+}
+#incomplete_works{
+  background-color: blue;
+  font-size: 20px;
+}
+#red{
+  color: red;
+}
+button{
+  background-color: gold;
+}
