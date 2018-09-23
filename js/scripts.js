@@ -11,12 +11,12 @@ var finalResults = 0;
 
    }
 
-// if(yourPicks[0]== undefined || yourPicks[1]== undefined || yourPicks[2]== undefined || yourPicks[3]== undefined || yourPicks[4]== undefined ){
-// $("#incomplete-work").toggle();
-//  incomplete_works.innerHTML = "Some questions Not Answerd!!!/n Atempt all questions!!! Before you can submit";
-// // alert("Some questions Not Answerd!!!/n Atempt all questions!!! Befor you can submit");
-// finder.preventDefault();
-//
+if(yourPicks[0]== undefined || yourPicks[1]== undefined || yourPicks[2]== undefined || yourPicks[3]== undefined || yourPicks[4]== undefined ){
+$("#incomplete-work").toggle();
+ incomplete_works.innerHTML = "Some questions Not Answerd!!!/n Atempt all questions!!! Before you can submit";
+// alert("Some questions Not Answerd!!!/n Atempt all questions!!! Befor you can submit");
+finder.preventDefault();
+
 // }
 // else{
 //   if(yourPicks[0] == 3){
